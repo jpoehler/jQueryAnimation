@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, Verdana, sans-serif;
+}
+
+p {
+  display: inline-block;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.container {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.generator {
+  height: 50px;
+  width: 200px;
+  font-size: 25px;
+  border-radius: 15px;
+
+
+}
+.property {
+  width: auto;
+  height: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border-radius: 15px;
+  position: relative;
+  border: 3px solid black;
+  background-color: #95DDFC;
+}
+ .delete {
+   height: 25px;
+   width: 75px;
+   font-size: 10px;
+   font-weight: bold;
+   border-radius: 5px;
+ }
